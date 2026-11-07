@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RPG Daily Brief</string>
+    <string name="channel_name">Daily brief</string>
+    <string name="channel_description">The 8 AM summary of birthdays, renewals and follow-ups</string>
+</resources>
